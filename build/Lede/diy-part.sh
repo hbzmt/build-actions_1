@@ -101,6 +101,7 @@ openwrt-x86-64-generic.manifest
 openwrt-x86-64-generic-squashfs-rootfs.img.gz
 01.07-Lede-18.06-6.1.69-x86-64-generic-squashfs-combined.img.gz
 01.07-Lede-18.06-6.1.69-x86-64-generic-squashfs-combined-efi.img.gz
+01.07-Lede-18.06-6.1.69-x86-64-generic-squashfs-combined.vmdk
 ipk.tar.gz
 EOF
 
